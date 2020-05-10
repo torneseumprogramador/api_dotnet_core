@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{847DDF33-6C35-43EE-866C-E9EF5126DA87}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="APIAulaYoutube/Controllers/ClientesController.cs">
+    <Files>
+      <File FileName="Models/Cliente.cs" Line="57" Column="1" />
+      <File FileName="APIAulaYoutube/Controllers/ClientesController.cs" Line="16" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="APIAulaYoutube" expanded="True">
+            <Node name="APIAulaYoutube" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ClientesController.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Models" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.APIAulaYoutube PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

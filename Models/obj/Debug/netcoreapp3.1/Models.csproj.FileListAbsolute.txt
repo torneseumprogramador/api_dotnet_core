@@ -1,0 +1,12 @@
+/Users/danilo/Projects/APIAulaYoutube/Models/bin/Debug/netcoreapp3.1/Models.deps.json
+/Users/danilo/Projects/APIAulaYoutube/Models/bin/Debug/netcoreapp3.1/Models.runtimeconfig.json
+/Users/danilo/Projects/APIAulaYoutube/Models/bin/Debug/netcoreapp3.1/Models.runtimeconfig.dev.json
+/Users/danilo/Projects/APIAulaYoutube/Models/bin/Debug/netcoreapp3.1/Models.dll
+/Users/danilo/Projects/APIAulaYoutube/Models/bin/Debug/netcoreapp3.1/Models.pdb
+/Users/danilo/Projects/APIAulaYoutube/Models/obj/Debug/netcoreapp3.1/Models.csproj.CoreCompileInputs.cache
+/Users/danilo/Projects/APIAulaYoutube/Models/obj/Debug/netcoreapp3.1/Models.AssemblyInfoInputs.cache
+/Users/danilo/Projects/APIAulaYoutube/Models/obj/Debug/netcoreapp3.1/Models.AssemblyInfo.cs
+/Users/danilo/Projects/APIAulaYoutube/Models/obj/Debug/netcoreapp3.1/Models.dll
+/Users/danilo/Projects/APIAulaYoutube/Models/obj/Debug/netcoreapp3.1/Models.pdb
+/Users/danilo/Projects/APIAulaYoutube/Models/obj/Debug/netcoreapp3.1/Models.genruntimeconfig.cache
+/Users/danilo/Projects/APIAulaYoutube/Models/obj/Debug/netcoreapp3.1/Models.csprojAssemblyReference.cache
